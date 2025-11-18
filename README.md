@@ -1,2 +1,4 @@
 # dsa-cheatsheet-java
-Repository for Data Structure, Algorithms from scractch implementation. 
+Repository for Data Structure & Algorithms implementation in Java. 
+
+
